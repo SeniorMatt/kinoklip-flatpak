@@ -1,0 +1,11 @@
+[Flatpak Ref]
+Title=Kinoklip (nightly)
+Name=org.kinoklip.Kinoklip
+Branch=nightly
+Url=https://seniormatt.github.io/kinoklip-flatpak/repo/
+SuggestRemoteName=kinoklip-nightly
+Homepage=https://github.com/SeniorMatt/kinoklip
+Icon=https://seniormatt.github.io/kinoklip-flatpak/kinoklip.png
+IsRuntime=false
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+GPGKey=mDMEawCMnRYJKwYBBAHaRw8BAQdApSGe6zovIZxEiDbab2q9ogE6lStNs1asnY6rIJ0m3960R0tpbm9rbGlwIEZsYXRwYWsgcmVwb3NpdG9yeSA8a2lub2tsaXAtZmxhdHBha0B1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20+iJMEExYKADsWIQRFP7904vUGkTCuVdAc/gfZ0Mu+mgUCawCMnQIbAwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRAc/gfZ0Mu+mg53AP9dICjXu3CfYXRy1KvpFdMsy8TtKqgs7Sx5eiZGLAEAygD/QnJbRHbi9uBW0CEOAZf7VFho/U0q5U4JsmxxBSYLCgo=

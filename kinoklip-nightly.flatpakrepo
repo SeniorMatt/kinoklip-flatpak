@@ -1,0 +1,9 @@
+[Flatpak Repo]
+Title=Kinoklip nightly
+Url=https://seniormatt.github.io/kinoklip-flatpak/repo/
+Homepage=https://github.com/SeniorMatt/kinoklip
+Comment=Kinoklip, a non-linear video editor
+Description=Kinoklip, a non-linear video editor with the layout and shortcuts of DaVinci Resolve's Edit page (nightly branch)
+Icon=https://seniormatt.github.io/kinoklip-flatpak/kinoklip.png
+DefaultBranch=nightly
+GPGKey=mDMEawCMnRYJKwYBBAHaRw8BAQdApSGe6zovIZxEiDbab2q9ogE6lStNs1asnY6rIJ0m3960R0tpbm9rbGlwIEZsYXRwYWsgcmVwb3NpdG9yeSA8a2lub2tsaXAtZmxhdHBha0B1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20+iJMEExYKADsWIQRFP7904vUGkTCuVdAc/gfZ0Mu+mgUCawCMnQIbAwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRAc/gfZ0Mu+mg53AP9dICjXu3CfYXRy1KvpFdMsy8TtKqgs7Sx5eiZGLAEAygD/QnJbRHbi9uBW0CEOAZf7VFho/U0q5U4JsmxxBSYLCgo=
