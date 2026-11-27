@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kinoklip Flatpak</title>
+<style>body{font:16px/1.5 sans-serif;max-width:42em;margin:2em auto;padding:0 1em}pre{background:#8882;padding:.6em;overflow:auto}</style>
+</head><body>
+<h1>Kinoklip Flatpak</h1>
+<p>Unofficial Flatpak repository of <a href="https://github.com/SeniorMatt/kinoklip">Kinoklip</a>
+(x86_64 and aarch64). Signed with GPG key <code>453FBF74E2F5069130AE55D01CFE07D9D0CBBE9A</code>.</p>
+<h2>Stable (releases)</h2>
+<pre>flatpak remote-add --user --if-not-exists kinoklip https://seniormatt.github.io/kinoklip-flatpak/kinoklip.flatpakrepo
+flatpak install --user kinoklip org.kinoklip.Kinoklip</pre>
+<p>Or open <a href="org.kinoklip.Kinoklip.flatpakref">org.kinoklip.Kinoklip.flatpakref</a> with your software centre.</p>
+<h2>Nightly (development builds, untested)</h2>
+<pre>flatpak remote-add --user --if-not-exists kinoklip-nightly https://seniormatt.github.io/kinoklip-flatpak/kinoklip-nightly.flatpakrepo
+flatpak install --user kinoklip-nightly org.kinoklip.Kinoklip//nightly</pre>
+<p>Or <a href="org.kinoklip.Kinoklip-nightly.flatpakref">org.kinoklip.Kinoklip-nightly.flatpakref</a>.</p>
+<h2>Discover / GNOME Software</h2>
+<p>Download <a href="kinoklip.flatpakrepo">kinoklip.flatpakrepo</a> (or
+<a href="kinoklip-nightly.flatpakrepo">kinoklip-nightly.flatpakrepo</a>) and open it with the software centre
+(Discover: Settings, Add Source), or use the commands above.</p>
+<p>Start it with <code>flatpak run org.kinoklip.Kinoklip</code>.</p>
+</body></html>
